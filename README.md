@@ -6,6 +6,11 @@
 </p>
 <br />
 
+//此项目的使用方法 在2023年2月5日得到验证
+//首先 vscode 创建空Flutter项目 
+//然后将项目中的lib 字体 图片资源导入到空项目即可！可能会出现一些代码上因为Flutter版本不同造成的错误 不过很少修改即可
+
+
 ### The Flutter Vignettes
 
 A collection of explorations into the exciting user experience possibilities enabled by the Flutter platform. Built by [gskinner](https://gskinner.com) in partnership with Google, these vignettes range from the practical to the novel. They aim to inspire both developers and designers to build delightful and beautiful experiences with Flutter.
